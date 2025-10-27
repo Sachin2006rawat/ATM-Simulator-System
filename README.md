@@ -1,1 +1,1 @@
-# ATM-Simulator-System
+Desktop application based JAVA Project
